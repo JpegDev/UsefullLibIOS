@@ -1,4 +1,4 @@
 # UsefullLibIOS
 
-+QRCode
+##QRCode
 https://github.com/EyreFree/EFQRCode
