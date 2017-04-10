@@ -16,3 +16,6 @@ https://github.com/Ramotion/gliding-collection
 VideoPlayer: <br>
 https://www.cocoacontrols.com/controls/jdplayer
 https://github.com/libobjc/SGPlayer
+
+Video Recorder: <br>
+https://github.com/rFlex/SCRecorder
