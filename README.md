@@ -1,4 +1,4 @@
-# UsefullLibIOS
+# UsefulLibIOS
 
 QRCode:<br>
 https://github.com/EyreFree/EFQRCode
@@ -19,3 +19,9 @@ https://github.com/libobjc/SGPlayer
 
 Video Recorder: <br>
 https://github.com/rFlex/SCRecorder
+
+
+
+#Useful Tools
+Fastlane: <br>
+https://fastlane.tools/
